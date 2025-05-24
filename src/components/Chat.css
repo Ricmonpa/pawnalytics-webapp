@@ -1,0 +1,10 @@
+/* src/components/Chat.css */
+.chat-container {
+  padding: 1rem;
+  border: 1px solid #ccc;
+
+  background-image: url('/public/chat-background.png');
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+}
